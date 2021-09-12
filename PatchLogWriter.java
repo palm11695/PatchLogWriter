@@ -332,7 +332,6 @@ public class PatchLogWriter {
                 }
 
             }
-//            System.out.println("Computing");
 
         }
 
